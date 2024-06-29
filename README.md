@@ -1,7 +1,7 @@
 # Wordle - Python
 
 ## Description
-Wordle - CECS 174 Edition is a Python console-based game where players guess a secret 5-letter word within a specified number of attempts. The game provides feedback on the correctness of each guess, indicating correct letters in the correct position and correct letters in the wrong position.
+Wordle is a Python console-based game where players guess a secret 5-letter word within a specified number of attempts. The game provides feedback on the correctness of each guess, indicating correct letters in the correct position and correct letters in the wrong position.
 
 ## Features
 - User input for the secret word and number of attempts allowed.

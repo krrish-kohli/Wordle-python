@@ -1,4 +1,4 @@
-# Wordle - Python
+# Wordle
 
 ## Description
 Wordle is a Python console-based game where players guess a secret 5-letter word within a specified number of attempts. The game provides feedback on the correctness of each guess, indicating correct letters in the correct position and correct letters in the wrong position.
@@ -12,5 +12,5 @@ Wordle is a Python console-based game where players guess a secret 5-letter word
 ## Installation and Usage
 1. Clone the repository:
    ```bash
-   git clone <https://krrish-kohli.github.io/Wordle-python/>
-   cd wordle-cecs174
+   git clone https://github.com/krrish-kohli/wordle-python.git
+   cd Wordle-python
